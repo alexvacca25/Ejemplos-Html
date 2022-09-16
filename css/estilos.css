@@ -1,5 +1,5 @@
 body{
-    background-color: burlywood;    
+    background-color: cadetblue;    
 }
 
 h1{
@@ -24,9 +24,10 @@ table, th, td {
     
 }
 th{
-    background-color: cadetblue;
+    background-color: chocolate;
     text-align: left;
     padding: 6px;
+    color: white;
 }
 td{
     background-color: cornflowerblue;
