@@ -54,3 +54,8 @@ info=info + "</table>"
 document.getElementById("informacion").innerHTML=info;
 
 }
+
+function limpiarTabla(){
+    var info="<h1>No hay Informacion </h1>";
+    document.getElementById("informacion").innerHTML=info;
+}
